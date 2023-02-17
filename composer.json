@@ -1,5 +1,5 @@
 {
-    "name": "toancong/mdoc",
+    "name": "ajohnson6494/mdoc",
     "description": "Wrapper for documo api",
     "license": "MIT",
     "keywords": ["documo", "PHP", "mdoc"],
@@ -7,6 +7,10 @@
         {
             "name": "Pham Cong Toan",
             "email": "toancong1920@gmail.com"
+        },
+        {
+          "name": "Andrew Johnson",
+          "email": "ajohnson6494@gmail.com"
         }
     ],
     "require": {
